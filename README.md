@@ -51,7 +51,7 @@
 
 ---
 
-## 🚀 uick Start / Setup Instructions
+## 🚀 Quick Start / Setup Instructions
 * **Import the Workflow:** Upload Ghost Recruiter - AI Resume Screening+ (2).json into your n8n environment (version 1.0 or newer).
 
 * **Connect Integrations:** Connect your credentials for access to Gmail and Google Sheets (via OAuth2).
