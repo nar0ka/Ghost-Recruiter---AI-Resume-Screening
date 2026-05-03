@@ -89,4 +89,6 @@
 * [**WhatsApp:** https://wa.me/380632991898](https://wa.me/380632991898)
 ---
 
+### 💡 Bonus: If you are not sure where to start your automation journey, just drop me a message — I will help you identify which processes can be optimized today!
+
 *Developed by [Naroka Studio](https://github.com/nar0ka)*
