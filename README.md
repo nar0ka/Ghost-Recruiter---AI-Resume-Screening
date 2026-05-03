@@ -62,12 +62,6 @@
 
 * **Launch:** Click Active on the n8n control panel to start autonomous processing.
 
-### Get in touch:
-
-* 💬 **Telegram:** [t.me/nar00ka](https://t.me/nar00ka) — let’s discuss your idea in 10 minutes.
-* 🐙 **GitHub:** https://github.com/nar0ka — explore my open-source projects.
-* 📦 **Gumroad:** https://naroka.gumroad.com — check out ready-to-use workflows.
-* [**WhatsApp:** https://wa.me/380632991898](https://wa.me/380632991898)
 
 ### 📄 Documentation Included (in the /README/ Folder)
 
