@@ -78,7 +78,7 @@
 ### Get in touch:
 
 * 💬 **Telegram:** [t.me/nar00ka](https://t.me/nar00ka) — let’s discuss your idea in 10 minutes.
-* 🐙 **GitHub:** https://github.com/nar0ka — explore my open-source projects.
+* 🐙 **GitHub:**  https://github.com/nar0ka — explore my open-source projects.
 * 📦 **Gumroad:** https://naroka.gumroad.com — check out ready-to-use workflows.
 * [**WhatsApp:** https://wa.me/380632991898](https://wa.me/380632991898)
 ---
