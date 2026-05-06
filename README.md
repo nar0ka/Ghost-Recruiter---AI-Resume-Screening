@@ -4,6 +4,7 @@
 
 ---
 
+
 ### 🛠 System Architecture
 ![Ghost Recruiter Architecture](work.png)
 
